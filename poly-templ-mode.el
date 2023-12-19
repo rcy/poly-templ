@@ -13,3 +13,5 @@
 (define-polymode poly-templ-mode
   :hostmode 'poly-go-hostmode
   :innermodes '(poly-go-templ-innermode))
+
+(provide 'poly-templ-mode)
